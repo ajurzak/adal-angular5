@@ -1,0 +1,4 @@
+[submodule "adal-angular5/dist"]
+	path = adal-angular5/dist
+	url = C:\\Projects\\adal-angular5
+	branch = master
