@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/grumar/adal-angular5.git"
+        "url": "git+https://github.com/ajurzak/azure-activedirectory-library-for-js.git"
     },
     "keywords": [
         "adal",
