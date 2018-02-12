@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ajurzak/azure-activedirectory-library-for-js.git"
+        "url": "git+https://github.com/ajurzak/adalangular5.git"
     },
     "keywords": [
         "adal",
