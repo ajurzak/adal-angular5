@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grumar/adal-angular5.git"
+    "url": "git+https://github.com/ajurzak/adal-angular5.git"
   },
   "keywords": [
     "adal",
@@ -14,14 +14,14 @@
   "author": "Ben Baran",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/grumar/adal-angular5/issues"
+    "url": "https://github.com/ajurzak/adal-angular5/issues"
   },
-  "homepage": "https://github.com/grumar/adal-angular5#readme",
+  "homepage": "https://github.com/ajurzak/adal-angular5#readme",
   "dependencies": {
     "@angular/common": "^5.0.0",
     "@angular/core": "^5.0.0",
     "@angular/platform-browser": "^5.0.0",
-    "adal-angular": "=1.0.16",
+    "adal-angular": "git+https://github.com/ajurzak/azure-activedirectory-library-for-js.git",
     "rxjs": "^5.5.2",
     "zone.js": "^0.8.14"
   }
